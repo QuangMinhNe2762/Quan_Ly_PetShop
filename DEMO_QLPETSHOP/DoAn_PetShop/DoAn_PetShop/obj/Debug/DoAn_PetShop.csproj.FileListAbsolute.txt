@@ -1,0 +1,107 @@
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+C:\Users\canht\OneDrive\Máy tính\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.AssemblyReference.cache
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+C:\Users\canht\Desktop\Do an .NET\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.AssemblyReference.cache
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+C:\Users\Windows 7\Desktop\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe.config
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.exe
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\bin\Debug\DoAn_PetShop.pdb
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\bin\Debug\Guna.UI2.dll
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.AssemblyReference.cache
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingCustomer.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingForm.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.BillingProduct.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerForm.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.CustomerModule.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Dashboard.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoadForm.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.LoginForm.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.MainForm.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryDetail.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntry.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.OderEntryModule.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductForm.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.ProductModule.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.Properties.Resources.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserForm.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.UserModule.resources
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.GenerateResource.cache
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CoreCompileInputs.cache
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.csproj.CopyComplete
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.exe
+D:\bt_c#\do_an_lt.net\Do an .NET(Hoàn thành)\DoAn_PetShop\DoAn_PetShop\obj\Debug\DoAn_PetShop.pdb
